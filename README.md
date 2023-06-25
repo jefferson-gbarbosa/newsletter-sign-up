@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jefferson-gbarbosa/newsletter-sign-up)
-- Live Site URL: [Add live site URL here](https://jefferson-gbarbosa.github.io/newsletter-sign-up/)
+- Solution URL: [https://github.com/jefferson-gbarbosa/newsletter-sign-up](https://github.com/jefferson-gbarbosa/newsletter-sign-up)
+- Live Site URL: [https://jefferson-gbarbosa.github.io/newsletter-sign-up/](https://jefferson-gbarbosa.github.io/newsletter-sign-up/)
 
 ## My process
 
